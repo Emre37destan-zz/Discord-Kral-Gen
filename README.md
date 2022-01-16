@@ -12,7 +12,7 @@ chrome://settings/help
 
 Bunu kopyalayıp yeni seçmede yapıştırmanız yeterlidir.
 
-#NOT: Çoklu bölümde sadece 2 kez kullanabilirsiniz.
+# NOT: Çoklu bölümde sadece 2 kez kullanabilirsiniz.
 Haricinde bazı işlerde kendiniz bilgileri almanız gerekir.
 
 İyi günler değerli arkadaşlar.
